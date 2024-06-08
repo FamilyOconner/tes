@@ -1,0 +1,15 @@
+┌───────────┬────────────────┐
+│  command  │  description   │
+├───────────┼────────────────┤
+│HELP       │Help            │
+│METHOD     │Attack Method   │
+│MYINFO     │My info         │
+│USERINFO   │All users info  │
+│ADDUSER    │Add user        │
+│BAN/UN-BAN │Banned/Unbanned │
+│CLEAR      │Clear terminal  │
+│EXIT       │Exit tools      │
+│ONLINE     │Users online    │
+│PASSWORD   │Change password │
+│ADDSERVER  │Add server      │
+└───────────┴────────────────┘

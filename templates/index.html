@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Effect</title>
+    <style>
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 30%; }
+        }
+
+        @keyframes blink {
+            50% { border-color: transparent; }
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #000;
+        }
+
+        .typing-effect {
+            font-family: monospace;
+            font-size: 2em;
+            color: #fff;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: .15em solid orange;
+            animation: typing 2s steps(7) 1s infinite alternate, blink .75s step-end infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="typing-effect">running</div>
+</body>
+</html>

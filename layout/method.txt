@@ -1,0 +1,10 @@
+┌──────────┬────────┬────────────┬───────┐
+│  Method  │  Time  │  Layer7/4  │  vip  │
+├──────────┼────────┼────────────┼───────┤
+│TLSV1     │  300   │  layer7    │  None │
+│TLSV2     │  300   │  layer7    │  None │
+│BYPASS    │  300   │  layer7    │  None │
+│HTTP2     │  300   │  layer7    │  Vip  │
+│HTTP-RAW  │  300   │  layer7    │  vip  │
+│UAM       │  300   │  layer7    │  vip  │
+└──────────┴────────┴────────────┴───────┘

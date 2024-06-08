@@ -1,0 +1,11 @@
+└───────────────────────┘
+ ATTACK SENT SUCCESFULLY
+┌───────────────────────┐
+   NAMA   : {username}
+   VIP    : {vip}
+   METHOD : {method}
+   TARGET : {url}
+   TIIME  : {timel}
+└───────────────────────┘
+ ATTACK SENT SUCCESFULLY
+┌───────────────────────┐

@@ -1,0 +1,9 @@
+┌────────────────────────────┐
+│NAME      : {username}
+│ADMIN     : {admin}
+│VIP       : {vip}
+│TIMELIMIT : {timelimit}
+│COOLDOWN  : {cooldown}
+│EXPIRED   : {expired}
+│BANNED    : {banned}
+└────────────────────────────┘
